@@ -33,5 +33,35 @@
         "name": "Tepung Gandum",
         "image": null,
         "brandList": ["Tepung Gandum Cap Bidara", "Tepung Gandum HPA", "Tepung Gandum Faiza (TV3 BERSAMAMU)", "Tepung Gandum 1Malaysia", "Tepung Penaik Kings (Barkath Ali Food)"]
+    },
+    {
+        "name": "Tepung Serbaguna",
+        "image": null,
+        "brandList": ["Agromas (Fama)", "Adabi", "Sufi", "Puteri Ayu (FAMA)", "Thaqif", "Tepung Magik", "Kuaz", "Ms Crispy", "AnjaSari", "Fatisha", "Zuqni", "Cik Nah", "EdyMart"]
+    },
+    {
+        "name": "Tepung Goreng Ayam",
+        "image": null,
+        "brandList": ["Mia", "Puteri Ayu (FAMA)", "Tepung Magik", "Abang Piee", "Adabi", "Alisa"]
+    },
+    {
+        "name": "Tepung Goreng Pisang",
+        "image": null,
+        "brandList": ["Adabi", "Adami (FAMA)", "Alisa"]
+    },
+    {
+        "name": "Teh",
+        "image": null,
+        "brandList": ["Teh Herba & Teh Hijau keluaran HPA", "Teh Uncang Alisa", "Teh Herba Orang Kampung", "Teh Uncang Stevia Anugerah Hijau", "Teh Uncang Coop 1Malaysia", "Teh Uncang keluaran Namida Holdings", "Teh Uncang keluaran TKC", "Teh Uncang Karkadeh keluaran Thoyyib", "Teh Herba Yusmira", "Teh Herba Alhabsyee", "Teh Ceylon Serbuk Akram", "Teh Ceylon Susu Kambing Azzurah D'cornz"]
+    },
+    {
+        "name": "Marjerin, Jem, Butter, Kaya",
+        "image": null,
+        "brandList": ["Sunbear Peanut Butter (FELDA)", "Sunbear Peanut Chunky (FELDA)", "Sunbear Chocolate (FELDA)", "Kaya Pandan Gardenia (Syed Mokhtar Bukhary)", "Agromas Kaya (FAMA)", "Adela Marjerin (FELDA)", "Pelangi Marjerin", "Super Creamlite Marjerin", "Palm 365 Marjerin", "Mariana Marjerin"]
+    },
+    {
+        "name": "Kopi Pracampuran",
+        "image": null,
+        "brandList": ["Kopi Hang Tuah", "Aljannah Kopi Mahkota Dewa", "Kopi Mas Ayu Plus Collagen", "Kopi Pracampuran Go Power", "Kopi Pracampuran Kenali", "Kopi Sawda", "Kopi Janda", "Kopi OrangKampung LongJack", "Kopi Radix HPA", "Kopi Agromas (FAMA)", "Kopi Cap Gantang", "Kopi Arshad", "E-man Café", "Kopi Anggerik (FAMA)", "Kopi Az-One", "Tok Guru Kopi Pra Campuran", "Kopi Tok Guru Pondok", "Kopi Cap Dua Badak", "Calcafe Dua Badak", "Lasindah Cafe", "Kopi Aduka Misai Kucing", "Xpower Cafe", "Kopi Pracampuran SyauqiEcafe", "Kopi 786 Al Hikmah", "Yusmira Kopi Walit", "Kopi Susu Kambing BioStevia"]
     }
 ]
