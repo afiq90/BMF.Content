@@ -2,21 +2,21 @@
     {
         "categoryName": "Pasaraya Dan Runcit",
         "categoryImage": null,
-        "subCategory": "afiq90.github.io/bmf/bmf.content/SubCategory.json"
+        "subCategoryLink": "afiq90.github.io/bmf/bmf.content/PasarayaDanRuncit.json"
     },
     {
         "categoryName": "Keperluan Harian",
         "categoryImage": null,
-        "subCategory": "afiq90.github.io/bmf/bmf.content/SubCategory2.json"
+        "subCategoryLink": "afiq90.github.io/bmf/bmf.content/KeperluanHarian.json"
     },
     {
         "categoryName": "Pakaian",
         "categoryImage": null,
-        "subCategory": "afiq90.github.io/bmf/bmf.content/subCategory.json"
+        "subCategoryLink": "afiq90.github.io/bmf/bmf.content/subCategory.json"
     },
     {
         "categoryName": "Pembinaan",
         "categoryImage": null,
-        "subCategory": "afiq90.github.io/bmf/bmf.content/subCategory.json"
+        "subCategoryLink": "afiq90.github.io/bmf/bmf.content/subCategory.json"
     }
 ]
