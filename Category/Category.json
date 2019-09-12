@@ -1,6 +1,9 @@
  {
-        "categoryName": "Pasaraya Dan Runcit",
-        "categoryDescription": "Senarai Pasaraya Dan Runcit",
-        "categoryImage": "https://freeicons.io/laravel/public/uploads/icons/png/8932134261557901915-128.png",
-        "subCategoryLink": "afiq90.github.io/bmf/bmf.content/PasarayaDanRuncit.json"
+        "categories": [{
+          "categoryName": "Pasaraya Dan Runcit",
+          "categoryDescription": "Senarai Pasaraya Dan Runcit",
+          "categoryImage": "https://freeicons.io/laravel/public/uploads/icons/png/8932134261557901915-128.png",
+          "subCategoryLink": "afiq90.github.io/bmf/bmf.content/PasarayaDanRuncit.json"
+        }]
+        
 }
