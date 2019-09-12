@@ -8,5 +8,10 @@
         "name": "Minyak Masak",
         "image": null,
         "brandList": ["Saji (FELDA)", "Tiara (FELDA)", "Alif (Sime Darby)", "Olife (Sime Darby)", "Adela Canola (FELDA)", "Cap Tiga Udang (Jenis Paket – FELDA)", "Minyak Masak Sufi", "Minyak Masak Baiduri", "VitaOils"]
+    },
+    {
+        "name": "Susu Manis",
+        "image": null,
+        "brandList": ["Saji Susu Pekat (Felda)", "Saji Susu Cair (Felda)", "Alif Susu Pekat (Sime Darby)", "Alif Susu Cair (Sime Darby)", "Krimer 1Malaysia", "Alisa Krimer Manis", "Alisa Krimer Sejat"]
     }
 ]
