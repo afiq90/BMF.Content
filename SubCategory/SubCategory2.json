@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Beras",
+        "image": null,
+        "brandList": ["Beras Nasional Bernas", "Beras dari syarikat Faiza", "Beras dari syarikat Era Bayam"]
+    }, 
+    {
+        "name": "Minyak Masak",
+        "image": null,
+        "brandList": ["Saji (FELDA)", "Tiara (FELDA)", "Alif (Sime Darby)"]
+    }
+]
