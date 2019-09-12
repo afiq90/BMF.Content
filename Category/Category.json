@@ -11,6 +11,12 @@
             "categoryDescription": "Senarai Barang Keperluan Harian",
             "categoryImage": "https://freeicons.io/laravel/public/uploads/icons/png/14734832241536062008-128.png",
             "subCategoryLink": "afiq90.github.io/bmf/bmf.content/KeperluanHarian.json"
+        },
+        {
+            "categoryName": "Pembinaan Dan Pembekal",
+            "categoryDescription": "Senarai Barang Pembinaan & Pembekal",
+            "categoryImage": "https://freeicons.io/laravel/public/uploads/icons/png/5868388431542283988-64.png",
+            "subCategoryLink": "afiq90.github.io/bmf/bmf.content/KeperluanHarian.json"
         }
     ]
 }
