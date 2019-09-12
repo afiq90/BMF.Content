@@ -13,5 +13,10 @@
         "name": "Susu Manis",
         "image": null,
         "brandList": ["Saji Susu Pekat (Felda)", "Saji Susu Cair (Felda)", "Alif Susu Pekat (Sime Darby)", "Alif Susu Cair (Sime Darby)", "Krimer 1Malaysia", "Alisa Krimer Manis", "Alisa Krimer Sejat"]
+    },
+    {
+        "name": "Gula",
+        "image": null,
+        "brandList": ["Gula Kasar Cap CSR ", "Gula Kasar Cap GPT – Gula Padang Terap", "Gula Halus Cap Krystal", "Gula Prai (FGV)", "Gula Castor Kings (Barkath Ali Food)", "Gula Aising Kings (Barkath Ali Food)", "Gula Perlis (FELDA)"]
     }
 ]
