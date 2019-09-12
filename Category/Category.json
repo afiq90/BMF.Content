@@ -1,14 +1,16 @@
- {
-        "categories": [{
-          "categoryName": "Pasaraya Dan Runcit",
-          "categoryDescription": "Senarai Pasaraya Dan Runcit",
-          "categoryImage": "https://freeicons.io/laravel/public/uploads/icons/png/8932134261557901915-128.png",
-          "subCategoryLink": "afiq90.github.io/bmf/bmf.content/PasarayaDanRuncit.json"
-        }, {
+{
+    "categories": [
+        {
+            "categoryName": "Pasaraya Dan Runcit",
+            "categoryDescription": "Senarai Pasaraya Dan Runcit",
+            "categoryImage": "https://freeicons.io/laravel/public/uploads/icons/png/8932134261557901915-128.png",
+            "subCategoryLink": "afiq90.github.io/bmf/bmf.content/PasarayaDanRuncit.json"
+        },
+        {
             "categoryName": "Keperluan Harian",
             "categoryDescription": "Senarai Barang Keperluan Harian",
             "categoryImage": "https://freeicons.io/laravel/public/uploads/icons/png/14734832241536062008-128.png",
             "subCategoryLink": "afiq90.github.io/bmf/bmf.content/KeperluanHarian.json"
-        }]
-        
+        }
+    ]
 }

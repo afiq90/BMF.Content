@@ -1,0 +1,16 @@
+{
+    "Students": [
+        {
+            "Name": "Amit Goenka",
+            "Major": "Physics"
+        },
+        {
+            "Name": "Smita Pallod",
+            "Major": "Chemistry"
+        },
+        {
+            "Name": "Rajeev Sen",
+            "Major": "Mathematics"
+        }
+    ]
+}
