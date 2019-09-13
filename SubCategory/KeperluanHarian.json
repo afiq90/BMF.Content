@@ -1,341 +1,345 @@
 {
-    "name": "Beras",
-    "image": null,
-    "brandList": [
-        "Beras Nasional Bernas",
-        "Beras dari syarikat Faiza",
-        "Beras dari syarikat Era Bayam",
-        "Beras dari syarikat Bernas Era",
-        "Beras dari syarikat YHL Holding",
-        "Beras dari syarikat Juara Selera",
-        "Beras Sufi",
-        "Beras dari syarikat Fajarmas & Kasturi"
-    ]
-},
-{
-    "name": "Minyak Masak",
-    "image": null,
-    "brandList": [
-        "Saji (FELDA)",
-        "Tiara (FELDA)",
-        "Alif (Sime Darby)",
-        "Olife (Sime Darby)",
-        "Adela Canola (FELDA)",
-        "Cap Tiga Udang (Jenis Paket – FELDA)",
-        "Minyak Masak Sufi",
-        "Minyak Masak Baiduri",
-        "VitaOils"
-    ]
-},
-{
-    "name": "Susu Manis",
-    "image": null,
-    "brandList": [
-        "Saji Susu Pekat (Felda)",
-        "Saji Susu Cair (Felda)",
-        "Alif Susu Pekat (Sime Darby)",
-        "Alif Susu Cair (Sime Darby)",
-        "Krimer 1Malaysia",
-        "Alisa Krimer Manis",
-        "Alisa Krimer Sejat"
-    ]
-},
-{
-    "name": "Gula",
-    "image": null,
-    "brandList": [
-        "Gula Kasar Cap CSR ",
-        "Gula Kasar Cap GPT – Gula Padang Terap",
-        "Gula Halus Cap Krystal",
-        "Gula Prai (FGV)",
-        "Gula Castor Kings (Barkath Ali Food)",
-        "Gula Aising Kings (Barkath Ali Food)",
-        "Gula Perlis (FELDA)"
-    ]
-},
-{
-    "name": "Garam",
-    "image": null,
-    "brandList": [
-        "Faiza (TV3 BERSAMAMU)",
-        "Halagel HPA",
-        "Gu Awa 593",
-        "Nevgel",
-        "Tamin",
-        "Sufi"
-    ]
-},
-{
-    "name": "Sardin",
-    "image": null,
-    "brandList": [
-        "Adabi",
-        "Pertima",
-        "Agromas (FAMA)",
-        "HPA",
-        "King Cup",
-        "Classfoods (Barkath Ali Food)",
-        "Rizza Brands",
-        "Noraini's",
-        "Sardin 1Malaysia",
-        "Sufi"
-    ]
-},
-{
-    "name": "Tepung Gandum",
-    "image": null,
-    "brandList": [
-        "Tepung Gandum Cap Bidara",
-        "Tepung Gandum HPA",
-        "Tepung Gandum Faiza (TV3 BERSAMAMU)",
-        "Tepung Gandum 1Malaysia",
-        "Tepung Penaik Kings (Barkath Ali Food)"
-    ]
-},
-{
-    "name": "Tepung Serbaguna",
-    "image": null,
-    "brandList": [
-        "Agromas (Fama)",
-        "Adabi",
-        "Sufi",
-        "Puteri Ayu (FAMA)",
-        "Thaqif",
-        "Tepung Magik",
-        "Kuaz",
-        "Ms Crispy",
-        "AnjaSari",
-        "Fatisha",
-        "Zuqni",
-        "Cik Nah",
-        "EdyMart"
-    ]
-},
-{
-    "name": "Tepung Goreng Ayam",
-    "image": null,
-    "brandList": [
-        "Mia",
-        "Puteri Ayu (FAMA)",
-        "Tepung Magik",
-        "Abang Piee",
-        "Adabi",
-        "Alisa"
-    ]
-},
-{
-    "name": "Tepung Goreng Pisang",
-    "image": null,
-    "brandList": [
-        "Adabi",
-        "Adami (FAMA)",
-        "Alisa"
-    ]
-},
-{
-    "name": "Teh",
-    "image": null,
-    "brandList": [
-        "Teh Herba & Teh Hijau keluaran HPA",
-        "Teh Uncang Alisa",
-        "Teh Herba Orang Kampung",
-        "Teh Uncang Stevia Anugerah Hijau",
-        "Teh Uncang Coop 1Malaysia",
-        "Teh Uncang keluaran Namida Holdings",
-        "Teh Uncang keluaran TKC",
-        "Teh Uncang Karkadeh keluaran Thoyyib",
-        "Teh Herba Yusmira",
-        "Teh Herba Alhabsyee",
-        "Teh Ceylon Serbuk Akram",
-        "Teh Ceylon Susu Kambing Azzurah D'cornz"
-    ]
-},
-{
-    "name": "Marjerin, Jem, Butter, Kaya",
-    "image": null,
-    "brandList": [
-        "Sunbear Peanut Butter (FELDA)",
-        "Sunbear Peanut Chunky (FELDA)",
-        "Sunbear Chocolate (FELDA)",
-        "Kaya Pandan Gardenia (Syed Mokhtar Bukhary)",
-        "Agromas Kaya (FAMA)",
-        "Adela Marjerin (FELDA)",
-        "Pelangi Marjerin",
-        "Super Creamlite Marjerin",
-        "Palm 365 Marjerin",
-        "Mariana Marjerin"
-    ]
-},
-{
-    "name": "Kopi Pracampuran",
-    "image": null,
-    "brandList": [
-        "Kopi Hang Tuah",
-        "Aljannah Kopi Mahkota Dewa",
-        "Kopi Mas Ayu Plus Collagen",
-        "Kopi Pracampuran Go Power",
-        "Kopi Pracampuran Kenali",
-        "Kopi Sawda",
-        "Kopi Janda",
-        "Kopi OrangKampung LongJack",
-        "Kopi Radix HPA",
-        "Kopi Agromas (FAMA)",
-        "Kopi Cap Gantang",
-        "Kopi Arshad",
-        "E-man Café",
-        "Kopi Anggerik (FAMA)",
-        "Kopi Az-One",
-        "Tok Guru Kopi Pra Campuran",
-        "Kopi Tok Guru Pondok",
-        "Kopi Cap Dua Badak",
-        "Calcafe Dua Badak",
-        "Lasindah Cafe",
-        "Kopi Aduka Misai Kucing",
-        "Xpower Cafe",
-        "Kopi Pracampuran SyauqiEcafe",
-        "Kopi 786 Al Hikmah",
-        "Yusmira Kopi Walit",
-        "Kopi Susu Kambing BioStevia"
-    ]
-},
-{
-    "name": "Rempah Ratus Dan Perencah",
-    "image": null,
-    "brandList": [
-        "Adabi",
-        "Brahim’s",
-        "Rasa Bonda",
-        "Al-Waqiah Sub Bunjut",
-        "Agromas (Fama)",
-        "Ihsan & Son",
-        "Adami (FAMA)",
-        "Faiza (TV3 BERSAMAMU)",
-        "Rempah Ratus Mak Siti",
-        "Cik Nor",
-        "Syarikat One",
-        "Rempah Tok Ma",
-        "Maharani",
-        "Sernan",
-        "Mak Pon",
-        "Anjaad",
-        "Vias",
-        "Iman Perencah",
-        "Demuara Perencah",
-        "Hilal Perencah",
-        "Haji Manan Perencah Laksa Sarawak",
-        "Seri Tanjung",
-        "HPA Perencah",
-        "Pak Ngah Perencah Rendang",
-        "Suri Rempah & Perencah",
-        "Rahsianor Perencah Lada Hitam",
-        "Liza's Perencah Masakan Asli Sarawak",
-        "Puteri Ayu (FAMA)",
-        "Sherwan",
-        "Baida's",
-        "Cap Bunga Rose",
-        "Peladang",
-        "Aween",
-        "SUPergh !!",
-        "SY Food ( Salleh Yaakob)",
-        "Mak Andak Food Seasoning (FAMA)",
-        "Nursiah Spices (FAMA)",
-        "Leni Spices (FAMA)",
-        "Murasa Perencah"
-    ]
-},
-{
-    "name": "Kordial",
-    "image": null,
-    "brandList": [
-        "Sunquick",
-        "Jalen",
-        "AK Kordial",
-        "Stevia Sweet",
-        "K'eDagang",
-        "D'MAS",
-        "Agromas (FAMA)",
-        "Az-One",
-        "B&R",
-        "Liza's Sarawak",
-        "Hilal",
-        "KoMARDI",
-        "Nadya",
-        "Nutrima",
-        "DesaKu",
-        "AuraLife",
-        "Rozas",
-        "D'Dapur",
-        "IBS Kordial",
-        "As-Sunnah",
-        "Syawal",
-        "Cekal Jaya",
-        "Mazidah Kurma Pegaga",
-        "Nanas Merbok",
-        "Radix, Roselle & Asiatica HPA",
-        "Suco"
-    ]
-},
-{
-    "name": "Kicap Manis Dan Masin",
-    "image": null,
-    "brandList": [
-        "Faiza",
-        "Adabi",
-        "Cap Kipas Udang Hablal’s",
-        "Jalen",
-        "Mudim",
-        "Agromas (Fama)",
-        "Tamin",
-        "Sufi",
-        "Zadun Sambal Kicap",
-        "Chet",
-        "Cap Lembu Berlaga",
-        "Mamas",
-        "Pelangi",
-        "Pati",
-        "Ikmal",
-        "Tiga Ayam",
-        "HPA",
-        "Alhadi",
-        "Syah Flavor",
-        "Mh Mohd",
-        "Hilal",
-        "Merpati Emas",
-        "Rohaya",
-        "Bilal",
-        "Norwana",
-        "Cap Telefon (KEMAS)",
-        "Ezany (Artis-Ezany Nizariff)"
-    ]
-},
-{
-    "name": "Sos Cili, Tomato, Tiram Dan Soya",
-    "image": null,
-    "brandList": [
-        "Pelangi (Felda)",
-        "Jalen",
-        "Bumi Hijau",
-        "Tamin",
-        "Life (QSR Brand)",
-        "Pawada",
-        "Sufi",
-        "Fatina",
-        "HPA",
-        "Mudim",
-        "Linda",
-        "Merpati Emas",
-        "Cmolek",
-        "Rohaya",
-        "Panching",
-        "Alhadi",
-        "Anieka",
-        "Lembu Berlaga",
-        "Suri",
-        "Makkah Recipe",
-        "Sudee",
-        "Anak Tanjung",
-        "M'Dee",
-        "Hilal",
-        "Jufran"
+    "SubCategory": [
+        {
+            "name": "Beras",
+            "image": null,
+            "brandList": [
+                "Beras Nasional Bernas",
+                "Beras dari syarikat Faiza",
+                "Beras dari syarikat Era Bayam",
+                "Beras dari syarikat Bernas Era",
+                "Beras dari syarikat YHL Holding",
+                "Beras dari syarikat Juara Selera",
+                "Beras Sufi",
+                "Beras dari syarikat Fajarmas & Kasturi"
+            ]
+        },
+        {
+            "name": "Minyak Masak",
+            "image": null,
+            "brandList": [
+                "Saji (FELDA)",
+                "Tiara (FELDA)",
+                "Alif (Sime Darby)",
+                "Olife (Sime Darby)",
+                "Adela Canola (FELDA)",
+                "Cap Tiga Udang (Jenis Paket – FELDA)",
+                "Minyak Masak Sufi",
+                "Minyak Masak Baiduri",
+                "VitaOils"
+            ]
+        },
+        {
+            "name": "Susu Manis",
+            "image": null,
+            "brandList": [
+                "Saji Susu Pekat (Felda)",
+                "Saji Susu Cair (Felda)",
+                "Alif Susu Pekat (Sime Darby)",
+                "Alif Susu Cair (Sime Darby)",
+                "Krimer 1Malaysia",
+                "Alisa Krimer Manis",
+                "Alisa Krimer Sejat"
+            ]
+        },
+        {
+            "name": "Gula",
+            "image": null,
+            "brandList": [
+                "Gula Kasar Cap CSR ",
+                "Gula Kasar Cap GPT – Gula Padang Terap",
+                "Gula Halus Cap Krystal",
+                "Gula Prai (FGV)",
+                "Gula Castor Kings (Barkath Ali Food)",
+                "Gula Aising Kings (Barkath Ali Food)",
+                "Gula Perlis (FELDA)"
+            ]
+        },
+        {
+            "name": "Garam",
+            "image": null,
+            "brandList": [
+                "Faiza (TV3 BERSAMAMU)",
+                "Halagel HPA",
+                "Gu Awa 593",
+                "Nevgel",
+                "Tamin",
+                "Sufi"
+            ]
+        },
+        {
+            "name": "Sardin",
+            "image": null,
+            "brandList": [
+                "Adabi",
+                "Pertima",
+                "Agromas (FAMA)",
+                "HPA",
+                "King Cup",
+                "Classfoods (Barkath Ali Food)",
+                "Rizza Brands",
+                "Noraini's",
+                "Sardin 1Malaysia",
+                "Sufi"
+            ]
+        },
+        {
+            "name": "Tepung Gandum",
+            "image": null,
+            "brandList": [
+                "Tepung Gandum Cap Bidara",
+                "Tepung Gandum HPA",
+                "Tepung Gandum Faiza (TV3 BERSAMAMU)",
+                "Tepung Gandum 1Malaysia",
+                "Tepung Penaik Kings (Barkath Ali Food)"
+            ]
+        },
+        {
+            "name": "Tepung Serbaguna",
+            "image": null,
+            "brandList": [
+                "Agromas (Fama)",
+                "Adabi",
+                "Sufi",
+                "Puteri Ayu (FAMA)",
+                "Thaqif",
+                "Tepung Magik",
+                "Kuaz",
+                "Ms Crispy",
+                "AnjaSari",
+                "Fatisha",
+                "Zuqni",
+                "Cik Nah",
+                "EdyMart"
+            ]
+        },
+        {
+            "name": "Tepung Goreng Ayam",
+            "image": null,
+            "brandList": [
+                "Mia",
+                "Puteri Ayu (FAMA)",
+                "Tepung Magik",
+                "Abang Piee",
+                "Adabi",
+                "Alisa"
+            ]
+        },
+        {
+            "name": "Tepung Goreng Pisang",
+            "image": null,
+            "brandList": [
+                "Adabi",
+                "Adami (FAMA)",
+                "Alisa"
+            ]
+        },
+        {
+            "name": "Teh",
+            "image": null,
+            "brandList": [
+                "Teh Herba & Teh Hijau keluaran HPA",
+                "Teh Uncang Alisa",
+                "Teh Herba Orang Kampung",
+                "Teh Uncang Stevia Anugerah Hijau",
+                "Teh Uncang Coop 1Malaysia",
+                "Teh Uncang keluaran Namida Holdings",
+                "Teh Uncang keluaran TKC",
+                "Teh Uncang Karkadeh keluaran Thoyyib",
+                "Teh Herba Yusmira",
+                "Teh Herba Alhabsyee",
+                "Teh Ceylon Serbuk Akram",
+                "Teh Ceylon Susu Kambing Azzurah D'cornz"
+            ]
+        },
+        {
+            "name": "Marjerin, Jem, Butter, Kaya",
+            "image": null,
+            "brandList": [
+                "Sunbear Peanut Butter (FELDA)",
+                "Sunbear Peanut Chunky (FELDA)",
+                "Sunbear Chocolate (FELDA)",
+                "Kaya Pandan Gardenia (Syed Mokhtar Bukhary)",
+                "Agromas Kaya (FAMA)",
+                "Adela Marjerin (FELDA)",
+                "Pelangi Marjerin",
+                "Super Creamlite Marjerin",
+                "Palm 365 Marjerin",
+                "Mariana Marjerin"
+            ]
+        },
+        {
+            "name": "Kopi Pracampuran",
+            "image": null,
+            "brandList": [
+                "Kopi Hang Tuah",
+                "Aljannah Kopi Mahkota Dewa",
+                "Kopi Mas Ayu Plus Collagen",
+                "Kopi Pracampuran Go Power",
+                "Kopi Pracampuran Kenali",
+                "Kopi Sawda",
+                "Kopi Janda",
+                "Kopi OrangKampung LongJack",
+                "Kopi Radix HPA",
+                "Kopi Agromas (FAMA)",
+                "Kopi Cap Gantang",
+                "Kopi Arshad",
+                "E-man Café",
+                "Kopi Anggerik (FAMA)",
+                "Kopi Az-One",
+                "Tok Guru Kopi Pra Campuran",
+                "Kopi Tok Guru Pondok",
+                "Kopi Cap Dua Badak",
+                "Calcafe Dua Badak",
+                "Lasindah Cafe",
+                "Kopi Aduka Misai Kucing",
+                "Xpower Cafe",
+                "Kopi Pracampuran SyauqiEcafe",
+                "Kopi 786 Al Hikmah",
+                "Yusmira Kopi Walit",
+                "Kopi Susu Kambing BioStevia"
+            ]
+        },
+        {
+            "name": "Rempah Ratus Dan Perencah",
+            "image": null,
+            "brandList": [
+                "Adabi",
+                "Brahim’s",
+                "Rasa Bonda",
+                "Al-Waqiah Sub Bunjut",
+                "Agromas (Fama)",
+                "Ihsan & Son",
+                "Adami (FAMA)",
+                "Faiza (TV3 BERSAMAMU)",
+                "Rempah Ratus Mak Siti",
+                "Cik Nor",
+                "Syarikat One",
+                "Rempah Tok Ma",
+                "Maharani",
+                "Sernan",
+                "Mak Pon",
+                "Anjaad",
+                "Vias",
+                "Iman Perencah",
+                "Demuara Perencah",
+                "Hilal Perencah",
+                "Haji Manan Perencah Laksa Sarawak",
+                "Seri Tanjung",
+                "HPA Perencah",
+                "Pak Ngah Perencah Rendang",
+                "Suri Rempah & Perencah",
+                "Rahsianor Perencah Lada Hitam",
+                "Liza's Perencah Masakan Asli Sarawak",
+                "Puteri Ayu (FAMA)",
+                "Sherwan",
+                "Baida's",
+                "Cap Bunga Rose",
+                "Peladang",
+                "Aween",
+                "SUPergh !!",
+                "SY Food ( Salleh Yaakob)",
+                "Mak Andak Food Seasoning (FAMA)",
+                "Nursiah Spices (FAMA)",
+                "Leni Spices (FAMA)",
+                "Murasa Perencah"
+            ]
+        },
+        {
+            "name": "Kordial",
+            "image": null,
+            "brandList": [
+                "Sunquick",
+                "Jalen",
+                "AK Kordial",
+                "Stevia Sweet",
+                "K'eDagang",
+                "D'MAS",
+                "Agromas (FAMA)",
+                "Az-One",
+                "B&R",
+                "Liza's Sarawak",
+                "Hilal",
+                "KoMARDI",
+                "Nadya",
+                "Nutrima",
+                "DesaKu",
+                "AuraLife",
+                "Rozas",
+                "D'Dapur",
+                "IBS Kordial",
+                "As-Sunnah",
+                "Syawal",
+                "Cekal Jaya",
+                "Mazidah Kurma Pegaga",
+                "Nanas Merbok",
+                "Radix, Roselle & Asiatica HPA",
+                "Suco"
+            ]
+        },
+        {
+            "name": "Kicap Manis Dan Masin",
+            "image": null,
+            "brandList": [
+                "Faiza",
+                "Adabi",
+                "Cap Kipas Udang Hablal’s",
+                "Jalen",
+                "Mudim",
+                "Agromas (Fama)",
+                "Tamin",
+                "Sufi",
+                "Zadun Sambal Kicap",
+                "Chet",
+                "Cap Lembu Berlaga",
+                "Mamas",
+                "Pelangi",
+                "Pati",
+                "Ikmal",
+                "Tiga Ayam",
+                "HPA",
+                "Alhadi",
+                "Syah Flavor",
+                "Mh Mohd",
+                "Hilal",
+                "Merpati Emas",
+                "Rohaya",
+                "Bilal",
+                "Norwana",
+                "Cap Telefon (KEMAS)",
+                "Ezany (Artis-Ezany Nizariff)"
+            ]
+        },
+        {
+            "name": "Sos Cili, Tomato, Tiram Dan Soya",
+            "image": null,
+            "brandList": [
+                "Pelangi (Felda)",
+                "Jalen",
+                "Bumi Hijau",
+                "Tamin",
+                "Life (QSR Brand)",
+                "Pawada",
+                "Sufi",
+                "Fatina",
+                "HPA",
+                "Mudim",
+                "Linda",
+                "Merpati Emas",
+                "Cmolek",
+                "Rohaya",
+                "Panching",
+                "Alhadi",
+                "Anieka",
+                "Lembu Berlaga",
+                "Suri",
+                "Makkah Recipe",
+                "Sudee",
+                "Anak Tanjung",
+                "M'Dee",
+                "Hilal",
+                "Jufran"
+            ]
+        }
     ]
 }
