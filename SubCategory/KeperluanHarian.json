@@ -1,9 +1,9 @@
 {
     "SubCategories": [
         {
-            "name": "Beras",
-            "image": null,
-            "brandList": [
+            "SubCategoryName": "Beras",
+            "SubCategoryImage": null,
+            "brands": [
                 "Beras Nasional Bernas",
                 "Beras dari syarikat Faiza",
                 "Beras dari syarikat Era Bayam",
@@ -15,9 +15,9 @@
             ]
         },
         {
-            "name": "Minyak Masak",
-            "image": null,
-            "brandList": [
+            "SubCategoryName": "Minyak Masak",
+            "SubCategoryImage": null,
+            "brands": [
                 "Saji (FELDA)",
                 "Tiara (FELDA)",
                 "Alif (Sime Darby)",
@@ -30,9 +30,9 @@
             ]
         },
         {
-            "name": "Susu Manis",
-            "image": null,
-            "brandList": [
+            "SubCategoryName": "Susu Manis",
+            "SubCategoryImage": null,
+            "brands": [
                 "Saji Susu Pekat (Felda)",
                 "Saji Susu Cair (Felda)",
                 "Alif Susu Pekat (Sime Darby)",
@@ -43,9 +43,9 @@
             ]
         },
         {
-            "name": "Gula",
-            "image": null,
-            "brandList": [
+            "SubCategoryName": "Gula",
+            "SubCategoryImage": null,
+            "brands": [
                 "Gula Kasar Cap CSR ",
                 "Gula Kasar Cap GPT – Gula Padang Terap",
                 "Gula Halus Cap Krystal",
@@ -56,9 +56,9 @@
             ]
         },
         {
-            "name": "Garam",
-            "image": null,
-            "brandList": [
+            "SubCategoryName": "Garam",
+            "SubCategoryImage": null,
+            "brands": [
                 "Faiza (TV3 BERSAMAMU)",
                 "Halagel HPA",
                 "Gu Awa 593",
@@ -68,9 +68,9 @@
             ]
         },
         {
-            "name": "Sardin",
-            "image": null,
-            "brandList": [
+            "SubCategoryName": "Sardin",
+            "SubCategoryImage": null,
+            "brands": [
                 "Adabi",
                 "Pertima",
                 "Agromas (FAMA)",
@@ -84,9 +84,9 @@
             ]
         },
         {
-            "name": "Tepung Gandum",
-            "image": null,
-            "brandList": [
+            "SubCategoryName": "Tepung Gandum",
+            "SubCategoryImage": null,
+            "brands": [
                 "Tepung Gandum Cap Bidara",
                 "Tepung Gandum HPA",
                 "Tepung Gandum Faiza (TV3 BERSAMAMU)",
@@ -95,9 +95,9 @@
             ]
         },
         {
-            "name": "Tepung Serbaguna",
-            "image": null,
-            "brandList": [
+            "SubCategoryName": "Tepung Serbaguna",
+            "SubCategoryImage": null,
+            "brands": [
                 "Agromas (Fama)",
                 "Adabi",
                 "Sufi",
@@ -114,9 +114,9 @@
             ]
         },
         {
-            "name": "Tepung Goreng Ayam",
-            "image": null,
-            "brandList": [
+            "SubCategoryName": "Tepung Goreng Ayam",
+            "SubCategoryImage": null,
+            "brands": [
                 "Mia",
                 "Puteri Ayu (FAMA)",
                 "Tepung Magik",
@@ -126,18 +126,18 @@
             ]
         },
         {
-            "name": "Tepung Goreng Pisang",
-            "image": null,
-            "brandList": [
+            "SubCategoryName": "Tepung Goreng Pisang",
+            "SubCategoryImage": null,
+            "brands": [
                 "Adabi",
                 "Adami (FAMA)",
                 "Alisa"
             ]
         },
         {
-            "name": "Teh",
-            "image": null,
-            "brandList": [
+            "SubCategoryName": "Teh",
+            "SubCategoryImage": null,
+            "brands": [
                 "Teh Herba & Teh Hijau keluaran HPA",
                 "Teh Uncang Alisa",
                 "Teh Herba Orang Kampung",
@@ -153,9 +153,9 @@
             ]
         },
         {
-            "name": "Marjerin, Jem, Butter, Kaya",
-            "image": null,
-            "brandList": [
+            "SubCategoryName": "Marjerin, Jem, Butter, Kaya",
+            "SubCategoryImage": null,
+            "brands": [
                 "Sunbear Peanut Butter (FELDA)",
                 "Sunbear Peanut Chunky (FELDA)",
                 "Sunbear Chocolate (FELDA)",
@@ -169,9 +169,9 @@
             ]
         },
         {
-            "name": "Kopi Pracampuran",
-            "image": null,
-            "brandList": [
+            "SubCategoryName": "Kopi Pracampuran",
+            "SubCategoryImage": null,
+            "brands": [
                 "Kopi Hang Tuah",
                 "Aljannah Kopi Mahkota Dewa",
                 "Kopi Mas Ayu Plus Collagen",
@@ -201,9 +201,9 @@
             ]
         },
         {
-            "name": "Rempah Ratus Dan Perencah",
-            "image": null,
-            "brandList": [
+            "SubCategoryName": "Rempah Ratus Dan Perencah",
+            "SubCategoryImage": null,
+            "brands": [
                 "Adabi",
                 "Brahim’s",
                 "Rasa Bonda",
@@ -246,9 +246,9 @@
             ]
         },
         {
-            "name": "Kordial",
-            "image": null,
-            "brandList": [
+            "SubCategoryName": "Kordial",
+            "SubCategoryImage": null,
+            "brands": [
                 "Sunquick",
                 "Jalen",
                 "AK Kordial",
@@ -278,9 +278,9 @@
             ]
         },
         {
-            "name": "Kicap Manis Dan Masin",
-            "image": null,
-            "brandList": [
+            "SubCategoryName": "Kicap Manis Dan Masin",
+            "SubCategoryImage": null,
+            "brands": [
                 "Faiza",
                 "Adabi",
                 "Cap Kipas Udang Hablal’s",
@@ -311,9 +311,9 @@
             ]
         },
         {
-            "name": "Sos Cili, Tomato, Tiram Dan Soya",
-            "image": null,
-            "brandList": [
+            "SubCategoryName": "Sos Cili, Tomato, Tiram Dan Soya",
+            "SubCategoryImage": null,
+            "brands": [
                 "Pelangi (Felda)",
                 "Jalen",
                 "Bumi Hijau",

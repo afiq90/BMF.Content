@@ -1,8 +1,8 @@
 {
     "SubCategories": [
         {
-            "name": "Pasaraya Dan Runcit",
-            "image": null,
+            "SubCategoryName": "Pasaraya Dan Runcit",
+            "SubCategoryImage": null,
             "brands": [
                 "Tesco Malaysia (Sime Darby)",
                 "Mydin (Mydin Mohamed)",
