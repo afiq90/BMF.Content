@@ -1,7 +1,17 @@
-[
-    {
-        "name": "Pasaraya Dan Runcit",
-        "image": null,
-        "brandList": ["Tesco Malaysia (Sime Darby)", "Mydin (Mydin Mohamed)", "Kedai Serbaneka MyMart (Dimiliki oleh Mydin)", "Az-zain (Shah Alam ,Subang Jaya,Bangi,Skudai)", "Kohalal (Perak)", "Kedai Halal SRM (Taman Impian Emas, Puchong, Taman Universiti, Bandar Baru Uda, Taman Mutiara Rini)", "Pasaraya Borong Sakan", "Kedai Rakyat 1Malaysia", "Halalmart (Bandar Putra Permai, Seri Kembangan)", "HPA Halal Mart", "Hijrah Halal Mart (Bandar Bukit Mahkota, Kajang)"]
-    }
-]
+{
+    "name": "Pasaraya Dan Runcit",
+    "image": null,
+    "brands": [
+        "Tesco Malaysia (Sime Darby)",
+        "Mydin (Mydin Mohamed)",
+        "Kedai Serbaneka MyMart (Dimiliki oleh Mydin)",
+        "Az-zain (Shah Alam ,Subang Jaya,Bangi,Skudai)",
+        "Kohalal (Perak)",
+        "Kedai Halal SRM (Taman Impian Emas, Puchong, Taman Universiti, Bandar Baru Uda, Taman Mutiara Rini)",
+        "Pasaraya Borong Sakan",
+        "Kedai Rakyat 1Malaysia",
+        "Halalmart (Bandar Putra Permai, Seri Kembangan)",
+        "HPA Halal Mart",
+        "Hijrah Halal Mart (Bandar Bukit Mahkota, Kajang)"
+    ]
+}
