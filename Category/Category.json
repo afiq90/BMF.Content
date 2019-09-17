@@ -17,6 +17,12 @@
             "categoryDescription": "Senarai Barang Keperluan Harian",
             "categoryImage": "https://freeicons.io/laravel/public/uploads/icons/png/14734832241536062008-128.png",
             "subCategoryLink": "KeperluanHarian.json"
+        },
+        {
+            "categoryName": "Keperluan Harian XXXXXX",
+            "categoryDescription": "Senarai XBarang XKeperluan XHarian",
+            "categoryImage": "https://freeicons.io/laravel/public/uploads/icons/png/14734832241536062008-128.png",
+            "subCategoryLink": "KeperluanHarian.json"
         }
     ]
 }
