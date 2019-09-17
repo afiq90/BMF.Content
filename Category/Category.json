@@ -7,6 +7,12 @@
             "subCategoryLink": "PasarayaDanRuncit.json"
         },
         {
+            "categoryName": "Pasaraya Dan Runcit 2",
+            "categoryDescription": "Kambingncit",
+            "categoryImage": "https://freeicons.io/laravel/public/uploads/icons/png/8932134261557901915-128.png",
+            "subCategoryLink": "PasarayaDanRuncit.json"
+        },
+        {
             "categoryName": "Keperluan Harian",
             "categoryDescription": "Senarai Barang Keperluan Harian",
             "categoryImage": "https://freeicons.io/laravel/public/uploads/icons/png/14734832241536062008-128.png",
