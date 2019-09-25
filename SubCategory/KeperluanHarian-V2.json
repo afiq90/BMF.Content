@@ -1,0 +1,1027 @@
+{
+    "SubCategories": [
+        {
+            "SubCategoryName": "Beras",
+            "SubCategoryImage": "https://img.astroawani.com/2015-10/61446303585_RICE.jpg",
+            "Brand": [
+                {
+                   "brand_name": "Beras dari Nasional Bernas",
+                   "brand_image": "https://i2.wp.com/malaysiagazette.com/wp-content/uploads/2017/06/bernas.jpg?resize=640%2C320&ssl=1"
+                },
+                {
+                    "brand_name": "Beras dari Faiza",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Beras dari Era Bayam",
+                    "brand_image": "https://erabk.com/img/common/logo.png"
+                },
+                {
+                    "brand_name": "Beras dari Juara Selera",
+                    "brand_image": "http://www.berasjuara.com/wp-content/uploads/2014/08/logo-juara-selera.png"
+                },
+                {
+                    "brand_name": "Beras dari syarikat Fajarmas & Kasturi",
+                    "brand_image": null
+                }
+            ]
+        },
+        {
+            "SubCategoryName": "Minyak Masak",
+            "SubCategoryImage": null,
+            "brands": [
+                {
+                    "brand_name": "Saji (FELDA)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Tiara (FELDA)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Adela Canola (FELDA)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Cap Tiga Udang (FELDA)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Alif (Sime Darby)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Olife (Sime Darby)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Minyak Masak Sufi",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Minyak Masak Baiduri",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "VitaOils",
+                    "brand_image": null
+                }
+            ]
+        },
+        {
+            "SubCategoryName": "Susu Manis",
+            "SubCategoryImage": "https://mmc.tirto.id/image/otf/500x0/2017/09/22/Ilustrasi-susu-4--iStock_ratio-16x9.JPG",
+            "brands": [
+                {
+                    "brand_name": "Saji Susu Pekat (Felda)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Saji Susu Cair (Felda)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Alif Susu Pekat (Sime Darby)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Alif Susu Cair (Sime Darby)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Krimer 1Malaysia",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Alisa Krimer Manis",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Alisa Krimer Sejat",
+                    "brand_image": null
+                }
+            ]
+        },
+        {
+            "SubCategoryName": "Gula",
+            "SubCategoryImage": null,
+            "brands": [
+                {
+                    "brand_name": "Gula Kasar Cap CSR",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Gula Kasar Cap GPT – Gula Padang Terap",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Gula Halus Cap Krystal",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Gula Prai (FGV)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Gula Castor Kings (Barkath Ali Food)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Gula Aising Kings (Barkath Ali Food)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Gula Perlis (FELDA)",
+                    "brand_image": null
+                }
+            ]
+        },
+        {
+            "SubCategoryName": "Garam",
+            "SubCategoryImage": null,
+            "brands": [
+                {
+                    "brand_name": "Halagel HPA",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Sufi",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Faiza (TV3 BERSAMAMU)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Gu Awa 593",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Nevgel",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Tamin",
+                    "brand_image": null
+                }
+            ]
+        },
+        {
+            "SubCategoryName": "Sardin",
+            "SubCategoryImage": null,
+            "brands": [
+                {
+                    "brand_name": "Adabi",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Pertima",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Agromas (FAMA)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "HPA",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "King Cup",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Classfoods (Barkath Ali Food)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Rizza Brands",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Noraini's",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Sardin 1Malaysia",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Sufi",
+                    "brand_image": null
+                }
+            ]
+        },
+        {
+            "SubCategoryName": "Tepung Gandum",
+            "SubCategoryImage": null,
+            "brands": [
+                {
+                    "brand_name": "Tepung Gandum Cap Bidara",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Tepung Gandum HPA",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Tepung Gandum Faiza (TV3 BERSAMAMU)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Tepung Gandum 1Malaysia",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Tepung Penaik Kings (Barkath Ali Food)",
+                    "brand_image": null
+                }
+            ]
+        },
+        {
+            "SubCategoryName": "Tepung Serbaguna",
+            "SubCategoryImage": null,
+            "brands": [
+                {
+                    "brand_name": "Agromas (Fama)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Adabi",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Sufi",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Puteri Ayu (FAMA)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Thaqif",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Tepung Magik",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Kuaz",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Ms Crispy",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "AnjaSari",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Fatisha",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Zuqni",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Cik Nah",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "EdyMart",
+                    "brand_image": null
+                }
+            ]
+        },
+        {
+            "SubCategoryName": "Tepung Goreng Ayam",
+            "SubCategoryImage": null,
+            "brands": [
+                {
+                    "brand_name": "Mia",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Puteri Ayu (FAMA)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Tepung Magik",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Abang Piee",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Adabi",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Alisa",
+                    "brand_image": null
+                }
+            ]
+        },
+        {
+            "SubCategoryName": "Tepung Goreng Pisang",
+            "SubCategoryImage": null,
+            "brands": [
+                {
+                    "brand_name": "Adabi",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Adami (FAMA)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Alisa",
+                    "brand_image": null
+                }
+            ]
+        },
+        {
+            "SubCategoryName": "Teh",
+            "SubCategoryImage": null,
+            "brands": [
+                {
+                    "brand_name": "Teh Herba & Teh Hijau keluaran HPA",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Teh Uncang Alisa",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Teh Herba Orang Kampung",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Teh Uncang Stevia Anugerah Hijau",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Teh Uncang Coop 1Malaysia",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Teh Uncang keluaran Namida Holdings",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Teh Uncang keluaran TKC",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Teh Uncang Karkadeh keluaran Thoyyib",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Teh Herba Yusmira",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Teh Herba Alhabsyee",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Teh Ceylon Serbuk Akram",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Teh Ceylon Susu Kambing Azzurah D'cornz",
+                    "brand_image": null
+                }
+            ]
+        },
+        {
+            "SubCategoryName": "Marjerin, Jem, Butter, Kaya",
+            "SubCategoryImage": null,
+            "brands": [
+                {
+                    "brand_name": "Sunbear Peanut Butter (FELDA)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Sunbear Peanut Chunky (FELDA)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Sunbear Chocolate (FELDA)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Kaya Pandan Gardenia (Syed Mokhtar Bukhary)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Agromas Kaya (FAMA)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Adela Marjerin (FELDA)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Pelangi Marjerin",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Super Creamlite Marjerin",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Palm 365 Marjerin",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Mariana Marjerin",
+                    "brand_image": null
+                }
+            ]
+        },
+        {
+            "SubCategoryName": "Kopi Pracampuran",
+            "SubCategoryImage": null,
+            "brands": [
+                {
+                    "brand_name": "Aljannah Kopi Mahkota Dewa",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Kopi Mas Ayu Plus Collagen",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Kopi Pracampuran Go Power",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Kopi Pracampuran Kenali",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Kopi Sawda",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Kopi Janda",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Kopi OrangKampung LongJack",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Kopi Radix HPA",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Kopi Hang Tuah",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Kopi Agromas (FAMA)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Kopi Cap Gantang",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Kopi Arshadn",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "E-man Café",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Kopi Anggerik (FAMA)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Kopi Az-One",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Tok Guru Kopi Pra Campuran",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Kopi Tok Guru Pondok",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Kopi Cap Dua Badak",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Calcafe Dua Badak",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Kopi Aduka Misai Kucing",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Xpower Cafe",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Kopi Pracampuran SyauqiEcafe",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Kopi 786 Al Hikmah",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Yusmira Kopi Walit",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Kopi Susu Kambing BioStevia",
+                    "brand_image": null
+                }    
+            ]
+        },
+        {
+            "SubCategoryName": "Rempah Ratus Dan Perencah",
+            "SubCategoryImage": null,
+            "brands": [
+                {
+                    "brand_name": "Adabi",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Brahim’s",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Rasa Bonda",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Al-Waqiah Sub Bunjut",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Agromas (Fama)",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Ihsan & Son",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Adami (FAMA)",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Rempah Ratus Mak Siti",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Cik Nor",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Syarikat One",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Rempah Tok Ma",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Maharani",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Sernan",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Mak Pon",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Anjaad",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Vias",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Iman Perencah",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Demuara Perencah",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Hilal Perencah",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Haji Manan Perencah Laksa Sarawak",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "HPA Perencah",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Pak Ngah Perencah Rendang",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Suri Rempah & Perencah",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Rahsianor Perencah Lada Hitam",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Liza's Perencah Masakan Asli Sarawak",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Puteri Ayu (FAMA)",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Sherwan",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Baida's",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Cap Bunga Rose",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Peladang",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Aween",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "SUPergh !!",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "SY Food ( Salleh Yaakob)",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Mak Andak Food Seasoning (FAMA)",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Nursiah Spices (FAMA)",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Leni Spices (FAMA)",
+                    "brand_image": null
+                }, 
+                {
+                    "brand_name": "Murasa Perencah",
+                    "brand_image": null
+                }
+            ]
+        },
+        {
+            "SubCategoryName": "Kordial",
+            "SubCategoryImage": null,
+            "brands": [
+                {
+                    "brand_name": "Sunquick",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Jalen",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "AK Kordial",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Stevia Sweet",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "K'eDagang",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "D'MAS",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Agromas (FAMA)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Az-One",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "B&R",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Liza's Sarawak",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Hilal",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "KoMARDI",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Nadya",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Nutrima",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "DesaKu",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "AuraLife",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Rozas",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "D'Dapur",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "IBS Kordial",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "As-Sunnah",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Syawal",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Cekal Jaya",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Nanas Merbok",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Radix, Roselle & Asiatica HPA",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Suco",
+                    "brand_image": null
+                }
+            ]
+        },
+        {
+            "SubCategoryName": "Kicap Manis Dan Masin",
+            "SubCategoryImage": null,
+            "brands": [
+                {
+                    "brand_name": "Faiza",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Adabi",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Cap Kipas Udang Hablal’s",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Jalen",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Mudim",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Agromas (Fama)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Tamin",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Zadun Sambal Kicap",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Chet",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Cap Lembu Berlaga",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Mamas",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Pelangi",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Pati",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Ikmal",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Tiga Ayam",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "HPA",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Alhadi",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Syah Flavor",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Mh Mohd",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Hilal",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Merpati Emas",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Rohaya",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Norwana",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Cap Telefon (KEMAS)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Ezany (Artis-Ezany Nizariff)",
+                    "brand_image": null
+                }
+            ]
+        },
+        {
+            "SubCategoryName": "Sos Cili, Tomato, Tiram Dan Soya",
+            "SubCategoryImage": null,
+            "brands": [
+                {
+                    "brand_name": "Pelangi (Felda)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Jalen",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Bumi Hijau",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Tamin",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Life (QSR Brand)",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Pawada",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Sufi",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Fatina",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "HPA",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Mudim",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Linda",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Merpati Emas",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Cmolek",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Rohaya",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Panching",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Alhadi",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Anieka",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Lembu Berlaga",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Suri",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Makkah Recipe",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Sudee",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Anak Tanjung",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "M'Dee",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Hilal",
+                    "brand_image": null
+                },
+                {
+                    "brand_name": "Jufran",
+                    "brand_image": null
+                }
+                
+            ]
+        }
+    ]
+}
